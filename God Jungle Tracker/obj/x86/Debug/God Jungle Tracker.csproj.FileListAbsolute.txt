@@ -1,0 +1,18 @@
+E:\League of Legends\Github\LeagueSharp-master AlphaGod\God Jungle Tracker\bin\Debug\GodJungleTracker.exe.config
+E:\League of Legends\Github\LeagueSharp-master AlphaGod\God Jungle Tracker\bin\Debug\GodJungleTracker.exe
+E:\League of Legends\Github\LeagueSharp-master AlphaGod\God Jungle Tracker\bin\Debug\GodJungleTracker.pdb
+E:\League of Legends\Github\LeagueSharp-master AlphaGod\God Jungle Tracker\bin\Debug\LeagueSharp.Common.dll
+E:\League of Legends\Github\LeagueSharp-master AlphaGod\God Jungle Tracker\bin\Debug\LeagueSharp.dll
+E:\League of Legends\Github\LeagueSharp-master AlphaGod\God Jungle Tracker\bin\Debug\SharpDX.Direct3D9.dll
+E:\League of Legends\Github\LeagueSharp-master AlphaGod\God Jungle Tracker\bin\Debug\SharpDX.dll
+E:\League of Legends\Github\LeagueSharp-master AlphaGod\God Jungle Tracker\bin\Debug\LeagueSharp.Data.dll
+E:\League of Legends\Github\LeagueSharp-master AlphaGod\God Jungle Tracker\bin\Debug\clipper_library.dll
+E:\League of Legends\Github\LeagueSharp-master AlphaGod\God Jungle Tracker\bin\Debug\Newtonsoft.Json.dll
+E:\League of Legends\Github\LeagueSharp-master AlphaGod\God Jungle Tracker\bin\Debug\LeagueSharp.Common.pdb
+E:\League of Legends\Github\LeagueSharp-master AlphaGod\God Jungle Tracker\bin\Debug\LeagueSharp.Data.pdb
+E:\League of Legends\Github\LeagueSharp-master AlphaGod\God Jungle Tracker\bin\Debug\clipper_library.pdb
+E:\League of Legends\Github\LeagueSharp-master AlphaGod\God Jungle Tracker\obj\x86\Debug\God Jungle Tracker.csprojResolveAssemblyReference.cache
+E:\League of Legends\Github\LeagueSharp-master AlphaGod\God Jungle Tracker\obj\x86\Debug\GodJungleTracker.Properties.Resources.resources
+E:\League of Legends\Github\LeagueSharp-master AlphaGod\God Jungle Tracker\obj\x86\Debug\God Jungle Tracker.csproj.GenerateResource.Cache
+E:\League of Legends\Github\LeagueSharp-master AlphaGod\God Jungle Tracker\obj\x86\Debug\GodJungleTracker.exe
+E:\League of Legends\Github\LeagueSharp-master AlphaGod\God Jungle Tracker\obj\x86\Debug\GodJungleTracker.pdb
