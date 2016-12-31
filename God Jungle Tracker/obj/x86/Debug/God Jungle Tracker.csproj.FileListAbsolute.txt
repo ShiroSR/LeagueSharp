@@ -16,3 +16,21 @@ E:\League of Legends\Github\LeagueSharp-master AlphaGod\God Jungle Tracker\obj\x
 E:\League of Legends\Github\LeagueSharp-master AlphaGod\God Jungle Tracker\obj\x86\Debug\God Jungle Tracker.csproj.GenerateResource.Cache
 E:\League of Legends\Github\LeagueSharp-master AlphaGod\God Jungle Tracker\obj\x86\Debug\GodJungleTracker.exe
 E:\League of Legends\Github\LeagueSharp-master AlphaGod\God Jungle Tracker\obj\x86\Debug\GodJungleTracker.pdb
+C:\Users\Adria\Documents\GitHub\LeagueSharp\God Jungle Tracker\bin\Debug\GodJungleTracker.exe.config
+C:\Users\Adria\Documents\GitHub\LeagueSharp\God Jungle Tracker\bin\Debug\GodJungleTracker.exe
+C:\Users\Adria\Documents\GitHub\LeagueSharp\God Jungle Tracker\bin\Debug\GodJungleTracker.pdb
+C:\Users\Adria\Documents\GitHub\LeagueSharp\God Jungle Tracker\bin\Debug\LeagueSharp.Common.dll
+C:\Users\Adria\Documents\GitHub\LeagueSharp\God Jungle Tracker\bin\Debug\LeagueSharp.dll
+C:\Users\Adria\Documents\GitHub\LeagueSharp\God Jungle Tracker\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Adria\Documents\GitHub\LeagueSharp\God Jungle Tracker\bin\Debug\SharpDX.dll
+C:\Users\Adria\Documents\GitHub\LeagueSharp\God Jungle Tracker\bin\Debug\LeagueSharp.Data.dll
+C:\Users\Adria\Documents\GitHub\LeagueSharp\God Jungle Tracker\bin\Debug\clipper_library.dll
+C:\Users\Adria\Documents\GitHub\LeagueSharp\God Jungle Tracker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Adria\Documents\GitHub\LeagueSharp\God Jungle Tracker\bin\Debug\LeagueSharp.Common.pdb
+C:\Users\Adria\Documents\GitHub\LeagueSharp\God Jungle Tracker\bin\Debug\LeagueSharp.Data.pdb
+C:\Users\Adria\Documents\GitHub\LeagueSharp\God Jungle Tracker\bin\Debug\clipper_library.pdb
+C:\Users\Adria\Documents\GitHub\LeagueSharp\God Jungle Tracker\obj\x86\Debug\God Jungle Tracker.csprojResolveAssemblyReference.cache
+C:\Users\Adria\Documents\GitHub\LeagueSharp\God Jungle Tracker\obj\x86\Debug\GodJungleTracker.Properties.Resources.resources
+C:\Users\Adria\Documents\GitHub\LeagueSharp\God Jungle Tracker\obj\x86\Debug\God Jungle Tracker.csproj.GenerateResource.Cache
+C:\Users\Adria\Documents\GitHub\LeagueSharp\God Jungle Tracker\obj\x86\Debug\GodJungleTracker.exe
+C:\Users\Adria\Documents\GitHub\LeagueSharp\God Jungle Tracker\obj\x86\Debug\GodJungleTracker.pdb

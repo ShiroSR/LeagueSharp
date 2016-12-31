@@ -1439,7 +1439,6 @@ namespace GodJungleTracker
             }
             #endregion
 
-
             #region ObjectsList
 
             if (!ObjectsList.Contains(networkID) && (header != Packets.MonsterSkill.Header || length != Packets.MonsterSkill.Length))

@@ -32,3 +32,18 @@ E:\League of Legends\Github\LeagueSharp-master AlphaGod\God Jungle Tracker\bin\R
 C:\Users\Adria\Documents\GitHub\LeagueSharp\God Jungle Tracker\bin\Release\GodJungleTracker.exe.config
 C:\Users\Adria\Documents\GitHub\LeagueSharp\God Jungle Tracker\obj\Debug\GodJungleTracker.exe
 C:\Users\Adria\Documents\GitHub\LeagueSharp\God Jungle Tracker\obj\Debug\GodJungleTracker.pdb
+C:\Users\Adria\Documents\GitHub\LeagueSharp\God Jungle Tracker\bin\Release\GodJungleTracker.exe
+C:\Users\Adria\Documents\GitHub\LeagueSharp\God Jungle Tracker\bin\Release\GodJungleTracker.pdb
+C:\Users\Adria\Documents\GitHub\LeagueSharp\God Jungle Tracker\bin\Release\LeagueSharp.Common.dll
+C:\Users\Adria\Documents\GitHub\LeagueSharp\God Jungle Tracker\bin\Release\LeagueSharp.dll
+C:\Users\Adria\Documents\GitHub\LeagueSharp\God Jungle Tracker\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Adria\Documents\GitHub\LeagueSharp\God Jungle Tracker\bin\Release\SharpDX.dll
+C:\Users\Adria\Documents\GitHub\LeagueSharp\God Jungle Tracker\bin\Release\LeagueSharp.Data.dll
+C:\Users\Adria\Documents\GitHub\LeagueSharp\God Jungle Tracker\bin\Release\clipper_library.dll
+C:\Users\Adria\Documents\GitHub\LeagueSharp\God Jungle Tracker\bin\Release\Newtonsoft.Json.dll
+C:\Users\Adria\Documents\GitHub\LeagueSharp\God Jungle Tracker\bin\Release\LeagueSharp.Common.pdb
+C:\Users\Adria\Documents\GitHub\LeagueSharp\God Jungle Tracker\bin\Release\LeagueSharp.Data.pdb
+C:\Users\Adria\Documents\GitHub\LeagueSharp\God Jungle Tracker\bin\Release\clipper_library.pdb
+C:\Users\Adria\Documents\GitHub\LeagueSharp\God Jungle Tracker\obj\Debug\God Jungle Tracker.csprojResolveAssemblyReference.cache
+C:\Users\Adria\Documents\GitHub\LeagueSharp\God Jungle Tracker\obj\Debug\GodJungleTracker.Properties.Resources.resources
+C:\Users\Adria\Documents\GitHub\LeagueSharp\God Jungle Tracker\obj\Debug\God Jungle Tracker.csproj.GenerateResource.Cache
