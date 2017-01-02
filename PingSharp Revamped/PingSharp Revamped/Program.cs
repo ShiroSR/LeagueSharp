@@ -34,7 +34,7 @@ namespace PingSharp
             _pingTypeList.Add(PingCategory.Normal, "Normal");
             _pingTypeList.Add(PingCategory.OnMyWay, "OnMyWay");
 
-            Config = new Menu("PingSharp", "Ping#", true).SetFontStyle(FontStyle.Bold, Color.Red);
+            Config = new Menu("PingSharp", "Ping# Revamped", true).SetFontStyle(FontStyle.Bold, Color.Red);
 
             var Fire = Config.AddItem(new MenuItem("fire", "Fire!").SetValue(new KeyBind("C".ToCharArray()[0], KeyBindType.Press)).SetFontStyle(FontStyle.Bold));
             var Target = Config.AddSubMenu(new Menu("Target: ", "target"));
