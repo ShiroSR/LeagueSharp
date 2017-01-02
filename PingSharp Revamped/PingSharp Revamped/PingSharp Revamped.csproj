@@ -7,8 +7,8 @@
     <ProjectGuid>{3A814CB6-DE6B-4220-9ACA-DB609197F620}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>PingSharp_Common</RootNamespace>
-    <AssemblyName>PingSharp Common</AssemblyName>
+    <RootNamespace>PingSharp_Revamped</RootNamespace>
+    <AssemblyName>PingSharp Revamped</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
